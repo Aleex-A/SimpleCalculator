@@ -6,6 +6,181 @@
                 {
                     "source": "C:\\Users\\Alejandro\\.gradle\\caches\\transforms-3\\40e62852f08d0724de1bd8038153a925\\transformed\\activity-1.5.0\\res\\values\\values.xml",
                     "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "96",
+                        "startColumns": "4",
+                        "startOffsets": "5722",
+                        "endColumns": "59",
+                        "endOffsets": "5777"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Alejandro\\AndroidStudioProjects\\ComposeCalculator\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "5,9,10,11,12,13,15",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "370,601,648,695,742,787,881",
+                        "endColumns": "41,46,46,46,44,44,41",
+                        "endOffsets": "407,643,690,737,782,827,918"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Alejandro\\AndroidStudioProjects\\ComposeCalculator\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "102",
+                        "startColumns": "4",
+                        "startOffsets": "6092",
+                        "endColumns": "54",
+                        "endOffsets": "6142"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Alejandro\\.gradle\\caches\\transforms-3\\2ff1acf316db0d4756f2c2cf64f18f7a\\transformed\\core-1.8.0\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,7,8,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,100,115,121,122,126,127,131,135,136",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "150,210,282,469,538,923,993,1061,1133,1203,1264,1338,1411,1472,1533,1595,1659,1721,1782,1850,1950,2010,2076,2149,2218,2275,2327,2389,2461,2537,4750,4785,4820,4875,4938,4993,5051,5109,5170,5233,5290,5341,5391,5452,5509,5575,5609,5644,5939,6847,7156,7273,7474,7584,7785,8089,8161",
+                        "endLines": "2,3,4,7,8,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,100,115,121,125,126,130,131,135,136",
+                        "endColumns": "59,71,87,68,62,69,67,71,69,60,73,72,60,60,61,63,61,60,67,99,59,65,72,68,56,51,61,71,75,64,34,34,54,62,54,57,57,60,62,56,50,49,60,56,65,33,34,34,69,70,116,12,109,12,128,71,66",
+                        "endOffsets": "205,277,365,533,596,988,1056,1128,1198,1259,1333,1406,1467,1528,1590,1654,1716,1777,1845,1945,2005,2071,2144,2213,2270,2322,2384,2456,2532,2597,4780,4815,4870,4933,4988,5046,5104,5165,5228,5285,5336,5386,5447,5504,5570,5604,5639,5674,6004,6913,7268,7469,7579,7780,7909,8156,8223"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Alejandro\\.gradle\\caches\\transforms-3\\078f69ff13d584175d673beb365cef10\\transformed\\ui-1.1.0-beta01\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "14,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,99,103,104,105,106,107,108,109,110,111,112,113,114,116,117,118",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "832,2602,2661,2720,2780,2840,2900,2960,3020,3080,3140,3200,3260,3320,3379,3439,3499,3559,3619,3679,3739,3799,3859,3919,3979,4038,4098,4158,4217,4276,4335,4394,4453,4512,4586,4644,4695,5886,6147,6212,6266,6332,6433,6491,6543,6615,6677,6731,6767,6801,6918,6954,7044",
+                        "endLines": "14,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,99,103,104,105,106,107,108,109,110,111,112,113,114,116,117,120",
+                        "endColumns": "48,58,58,59,59,59,59,59,59,59,59,59,59,58,59,59,59,59,59,59,59,59,59,59,58,59,59,58,58,58,58,58,58,73,57,50,54,52,64,53,65,100,57,51,71,61,53,35,33,45,35,89,12",
+                        "endOffsets": "876,2656,2715,2775,2835,2895,2955,3015,3075,3135,3195,3255,3315,3374,3434,3494,3554,3614,3674,3734,3794,3854,3914,3974,4033,4093,4153,4212,4271,4330,4389,4448,4507,4581,4639,4690,4745,5934,6207,6261,6327,6428,6486,6538,6610,6672,6726,6762,6796,6842,6949,7039,7151"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Alejandro\\.gradle\\caches\\transforms-3\\8199d6d37802a0f77d7de62ed9f15bcc\\transformed\\startup-runtime-1.0.0\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "101",
+                        "startColumns": "4",
+                        "startOffsets": "6009",
+                        "endColumns": "82",
+                        "endOffsets": "6087"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Alejandro\\AndroidStudioProjects\\ComposeCalculator\\app\\src\\main\\res\\values\\ic_launcher_background.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endColumns": "56",
+                        "endOffsets": "109"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "412",
+                        "endColumns": "56",
+                        "endOffsets": "464"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Alejandro\\.gradle\\caches\\transforms-3\\c830928d3324dfb7293eb2d93cf78c02\\transformed\\lifecycle-viewmodel-2.5.0\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "98",
+                        "startColumns": "4",
+                        "startOffsets": "5836",
+                        "endColumns": "49",
+                        "endOffsets": "5881"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Alejandro\\AndroidStudioProjects\\ComposeCalculator\\app\\src\\main\\res\\values\\themes.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "132",
+                        "startColumns": "4",
+                        "startOffsets": "7914",
+                        "endLines": "134",
+                        "endColumns": "12",
+                        "endOffsets": "8084"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Alejandro\\.gradle\\caches\\transforms-3\\2b48728c2e717d62f4435a4d46d60c27\\transformed\\lifecycle-runtime-2.5.0\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "95",
+                        "startColumns": "4",
+                        "startOffsets": "5679",
+                        "endColumns": "42",
+                        "endOffsets": "5717"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Alejandro\\.gradle\\caches\\transforms-3\\a8b846d811e9d7863d71d659d5237521\\transformed\\savedstate-1.2.0\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "97",
+                        "startColumns": "4",
+                        "startOffsets": "5782",
+                        "endColumns": "53",
+                        "endOffsets": "5831"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Alejandro\\.gradle\\daemon\\7.3.3\\com.composecalculator.app-mergeDebugResources-39:\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Alejandro\\.gradle\\caches\\transforms-3\\40e62852f08d0724de1bd8038153a925\\transformed\\activity-1.5.0\\res\\values\\values.xml",
+                    "from": {
                         "startLines": "2",
                         "startColumns": "4",
                         "startOffsets": "55",
